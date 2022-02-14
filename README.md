@@ -29,6 +29,10 @@ Nota: Para poder ejecutar el test de cucumber se requiere tener una licencia de 
 
 * En este link se ve la ejecución de los tres scripts : http://g.recordit.co/iGzBso62ak.gif
 
+* Antes de crear el reporte de allure tenemos que editar el archivo llamado EjecutarConBehaveTags, en este archivo cambiaremos la ruta relativa en donde se encuentra nuestro proyecto, ya que se realiza el cambio lo guardamos y ejecutamos se mostrara la pantalla del cmd ejecutando los scripts, en nuestro proyecto se creara una carpeta llamada allure-results, despues de que se termine de ejecutar los casos de prueba cerramos el cmd y cambiamos la ruta del archivo llamado generar Reporte guardamos y ejecutamos con este archivo generamos el reporte, si no se visualiza el reporte en automatico tenemos que entrar al proyecto en pycharm y buscar la carpeta allure-result se mostrara un html en la parte derecha pasamos el mouse y se visualizaran los navegadores para poderlo ver.
+
+* En este link se visualiza la ejecución del reporte: http://g.recordit.co/TcNSTaFjQK.gif
+
 
 
 ## 🔩 Pruebas end-to-end :
