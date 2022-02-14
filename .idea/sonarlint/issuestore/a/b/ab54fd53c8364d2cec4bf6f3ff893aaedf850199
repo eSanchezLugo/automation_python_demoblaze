@@ -1,0 +1,44 @@
+
+python:S117²"[Rename this local variable "Get_Entity" to match the regular expression ^[_a-z][a-z0-9_]*$.(ıÈæùÿÿÿÿ8÷ß„¿Ù/
+xpython:S117×"YRename this parameter "MyTextElement" to match the regular expression ^[_a-z][a-z0-9_]*$.(×ŒØš8÷ß„¿Ù/
+npython:S117ı"ORename this parameter "URL" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ûš‰Æ8÷ß„¿Ù/
+}python:S117¯"YRename this parameter "MyTextElement" to match the regular expression ^[_a-z][a-z0-9_]*$.(­Şª¼ıÿÿÿÿ8÷ß„¿Ù/
+wpython:S117ç"SRename this parameter "Locator" to match the regular expression ^[_a-z][a-z0-9_]*$.(ûŒ—†şÿÿÿÿ8÷ß„¿Ù/
+xpython:S117Ÿ"YRename this parameter "MyTextElement" to match the regular expression ^[_a-z][a-z0-9_]*$.(€ÚéË8÷ß„¿Ù/
+spython:S117É"TRename this parameter "timeLoad" to match the regular expression ^[_a-z][a-z0-9_]*$.(ù´ê¨8÷ß„¿Ù/
+ypython:S117"ZRename this parameter "nombreDelLibro" to match the regular expression ^[_a-z][a-z0-9_]*$.(ú©¡–8÷ß„¿Ù/
+~python:S117•"ZRename this parameter "nombreDelLibro" to match the regular expression ^[_a-z][a-z0-9_]*$.(öâÿ‘ÿÿÿÿÿ8÷ß„¿Ù/
+python:S117Š"[Rename this local variable "Get_Entity" to match the regular expression ^[_a-z][a-z0-9_]*$.(ıÈæùÿÿÿÿ8ÊåÉ¼Ù/
+python:S1192ÿ"mDefine a constant instead of duplicating this literal u'No se encontro el valor en el Json definido' 3 times.(éˆÉ•8÷ß„¿Ù/
+python:S117§"[Rename this local variable "Get_Entity" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÌÔÃæøÿÿÿÿ8÷ß„¿Ù/
+python:S117Ø"[Rename this local variable "Get_Entity" to match the regular expression ^[_a-z][a-z0-9_]*$.(ıÈæùÿÿÿÿ8ÊåÉ¼Ù/
+{python:S117·"WRename this parameter "Descripcion" to match the regular expression ^[_a-z][a-z0-9_]*$.(İåı şÿÿÿÿ8÷ß„¿Ù/
+~python:S117s"[Rename this local variable "Get_Entity" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÌÔÃæøÿÿÿÿ8÷ß„¿Ù/
+xpython:S117°"TRename this parameter "TestCase" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÌÓ›‹ùÿÿÿÿ8÷ß„¿Ù/
+xpython:S117"YRename this parameter "MyTextElement" to match the regular expression ^[_a-z][a-z0-9_]*$.(™º£ü8÷ß„¿Ù/
+python:S117‚"[Rename this local variable "Get_Entity" to match the regular expression ^[_a-z][a-z0-9_]*$.(ıÈæùÿÿÿÿ8ÊåÉ¼Ù/
+xpython:S117Ó"YRename this parameter "MyTextElement" to match the regular expression ^[_a-z][a-z0-9_]*$.(»¬œÁ8÷ß„¿Ù/
+xpython:S117Ì"ZRename this local variable "totalWait" to match the regular expression ^[_a-z][a-z0-9_]*$.(°«²88÷ß„¿Ù/
+wpython:S117p"YRename this parameter "MyTextElement" to match the regular expression ^[_a-z][a-z0-9_]*$.(é¿Ó§8÷ß„¿Ù/
+python:S117¢"[Rename this local variable "Get_Entity" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÌÔÃæøÿÿÿÿ8÷ß„¿Ù/
+}python:S117×"YRename this parameter "MyTextElement" to match the regular expression ^[_a-z][a-z0-9_]*$.(âö¸öûÿÿÿÿ8÷ß„¿Ù/
+python:S117Ô"[Rename this local variable "Get_Entity" to match the regular expression ^[_a-z][a-z0-9_]*$.(ıÈæùÿÿÿÿ8ÊåÉ¼Ù/
+python:S117¢"[Rename this local variable "DriverTest" to match the regular expression ^[_a-z][a-z0-9_]*$.(‰†öèûÿÿÿÿ8ÊåÉ¼Ù/
+vpython:S1192¶"VDefine a constant instead of duplicating this literal "arguments[0].click();" 5 times.(ê½£¥8÷ß„¿Ù/
+ypython:S117–"ZRename this local variable "leerExcel" to match the regular expression ^[_a-z][a-z0-9_]*$.(£™ûŠ8ÊåÉ¼Ù/
+}python:S117£"YRename this local variable "TestCase" to match the regular expression ^[_a-z][a-z0-9_]*$.(Çµ×Æøÿÿÿÿ8ÊåÉ¼Ù/
+mpython:S117M"ORename this parameter "URL" to match the regular expression ^[_a-z][a-z0-9_]*$.(¶Ë¤„8ÊåÉ¼Ù/
+wpython:S117¤"XRename this local variable "horaAct" to match the regular expression ^[_a-z][a-z0-9_]*$.(Üã–8ÊåÉ¼Ù/
+}python:S117ú"YRename this parameter "MyTextElement" to match the regular expression ^[_a-z][a-z0-9_]*$.(°ãÅËÿÿÿÿÿ8÷ß„¿Ù/
+}python:S117®"YRename this parameter "MyTextElement" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÂùÅùÿÿÿÿ8÷ß„¿Ù/
+tpython:S3776×"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(×ŒØš8÷ß„¿Ù/
+ypython:S3776®"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(ÂùÅùÿÿÿÿ8÷ß„¿Ù/
+python:S117°"[Rename this local variable "Get_Entity" to match the regular expression ^[_a-z][a-z0-9_]*$.(ıÈæùÿÿÿÿ8÷ß„¿Ù/
+spython:S3776p"TRefactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.(é¿Ó§8÷ß„¿Ù/
+tpython:S117Ó"URename this parameter "TextoJson" to match the regular expression ^[_a-z][a-z0-9_]*$.(ğºú¼8÷ß„¿Ù/
+}python:S117‰"YRename this parameter "MyTextElement" to match the regular expression ^[_a-z][a-z0-9_]*$.(ò×È§øÿÿÿÿ8÷ß„¿Ù/
+upython:S117¯"QRename this parameter "TEXTO" to match the regular expression ^[_a-z][a-z0-9_]*$.(­Şª¼ıÿÿÿÿ8÷ß„¿Ù/
+{python:S117"\Rename this local variable "cargarExcel" to match the regular expression ^[_a-z][a-z0-9_]*$.(¼ÇÇ¢8ÊåÉ¼Ù/
+€python:S117¡"\Rename this local variable "GeneralPath" to match the regular expression ^[_a-z][a-z0-9_]*$.(³«Œúÿÿÿÿ8÷ß„¿Ù/
+tpython:S1192À"TDefine a constant instead of duplicating this literal u"Se hizo click en: " 3 times.(¾¨€±8÷ß„¿Ù/
+tpython:S3776Ÿ"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(€ÚéË8÷ß„¿Ù/

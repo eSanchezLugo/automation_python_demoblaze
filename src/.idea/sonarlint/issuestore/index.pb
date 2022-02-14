@@ -1,0 +1,35 @@
+
+H
+functions/Inicializar.py,b\4\b415d795a80c2aeea4fe90d65d0da5515bcb10d8
+U
+%tests/Kikoya/CPA_10_Iniciar_Sesion.py,5\9\59578dac854b73ea0f44db899ce1233cce48728e
+U
+%tests/Kikoya/CPA_20_Pre_Aprobacion.py,b\9\b9cd049f0df7d087660bba1912792522b91090e5
+X
+(tests/Kikoya/CPA_30_ObligadoSolidario.py,3\1\319795867938d47d64a19db75fb8032fad83349f
+Y
+)tests/Kikoya/CPA_31_Solicitud_Obligado.py,3\5\35cf25512e14e3641df21c2d417f6b887d4ccfbf
+F
+functions/Functions.py,8\8\88d7f5344d42f72f81e68b69c0dc8b18248971bf
+^
+.tests/Staging/CPA_20_Iniciar_Sesion_Staging.py,b\2\b2fdcc82d7e60f5d56d50581e68d77dad741b31a
+C
+pages/datosKyc.json,4\f\4fcd9f23047dc79a4c42234922df2e1138fd0b55
+]
+-tests/Staging/CPA_30_Pre_Aprobacion_Stagin.py,8\e\8e3df781218e1cd0ece353ddb9622a0f32f86b38
+R
+"pages/datosPersonalesObligado.json,3\1\313c6248ddecd597c710a9237bd91eb200f435cb
+R
+"pages/datosSociedadCrediticia.json,4\9\497393183fa81349fdd11792c76a905ebf32168b
+K
+pages/datosSolicitudes.json,4\9\495d4dfac60e1d7f80487c5ae0afbb584967c3a0
+P
+ pages/informacionFinanciera.json,6\d\6d4f4da057aa751820cc15d6551afa1c2c45905b
+Z
+*tests/Kavak/CPA_20_Pre_Aprobacion_Kavak.py,7\e\7e34c098fa058c88c9483d0ee3fd2c658000396e
+U
+%tests/Kavak/CPA_21_Solicitud_Kavak.py,5\f\5fac8903ad147b790e1dd642d33826e6cac284e5
+W
+'tests/Staging/CPA_10_SolicitaCredito.py,b\3\b35085653c692da0b70cbf175fb0c073728ff115
+P
+ tests/Kikoya/CPA_21_Solicitud.py,c\a\ca00efe2e12706ad879f9d7fd33d16f9b6f99dac

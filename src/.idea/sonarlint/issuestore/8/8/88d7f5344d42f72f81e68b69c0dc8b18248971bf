@@ -1,0 +1,40 @@
+
+kpython:S1192Ê"MDefine a constant instead of duplicating this literal u"scroll_to: " 3 times.(½®İ’ıÿÿÿÿ
+xpython:S1192É"_Define a constant instead of duplicating this literal "arguments[0].scrollIntoView();" 3 times.(÷ûØ‹
+mpython:S1192æ"TDefine a constant instead of duplicating this literal u"Se hizo click en: " 5 times.(¾¨€±
+‹python:S1192Î"mDefine a constant instead of duplicating this literal u"No se encontro el valor en el Json definido" 3 times.(Ì•Ä»øÿÿÿÿ
+opython:S1192å"VDefine a constant instead of duplicating this literal "arguments[0].click();" 5 times.(ê½£¥
+…python:S1192â"lDefine a constant instead of duplicating this literal "No se encontro el valor en el Json definido" 3 times.(šâ•
+ipython:S101"MRename class "selenium" to match the regular expression ^[A-Z_][a-zA-Z0-9]+$.(äšı³ùÿÿÿÿ
+fpython:S117"ORename this parameter "URL" to match the regular expression ^[_a-z][a-z0-9_]*$.(öï¡€
+qpython:S3776t"TRefactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.(¨¾øÿÿÿÿÿ
+wpython:S117y"[Rename this local variable "Get_Entity" to match the regular expression ^[_a-z][a-z0-9_]*$.(›äõæıÿÿÿÿ
+upython:S117t"YRename this parameter "MyTextElement" to match the regular expression ^[_a-z][a-z0-9_]*$.(¨¾øÿÿÿÿÿ
+xpython:S117¦"[Rename this local variable "Get_Entity" to match the regular expression ^[_a-z][a-z0-9_]*$.(›äõæıÿÿÿÿ
+qpython:S117¥"YRename this parameter "MyTextElement" to match the regular expression ^[_a-z][a-z0-9_]*$.(€ÚéË
+spython:S117Ë"[Rename this local variable "Get_Entity" to match the regular expression ^[_a-z][a-z0-9_]*$.(¥¶†ù
+qpython:S117Ê"YRename this parameter "MyTextElement" to match the regular expression ^[_a-z][a-z0-9_]*$.(»¬œÁ
+spython:S117ú"[Rename this local variable "Get_Entity" to match the regular expression ^[_a-z][a-z0-9_]*$.(¥¶†ù
+ppython:S117‚"XRename this local variable "ObjText" to match the regular expression ^[_a-z][a-z0-9_]*$.(õÓ£‹
+hpython:S117ø"QRename this parameter "TEXTO" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ÿìô
+spython:S117œ"[Rename this local variable "Get_Entity" to match the regular expression ^[_a-z][a-z0-9_]*$.(¥¶†ù
+qpython:S117›"YRename this parameter "MyTextElement" to match the regular expression ^[_a-z][a-z0-9_]*$.(×ŒØš
+qpython:S117Ï"ZRename this local variable "leerExcel" to match the regular expression ^[_a-z][a-z0-9_]*$.(Œº}
+rpython:S117Î"ZRename this parameter "nombreDelLibro" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ì…Óş
+ypython:S117×"\Rename this local variable "cargarExcel" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÅŠï‹úÿÿÿÿ
+wpython:S117Ö"ZRename this parameter "nombreDelLibro" to match the regular expression ^[_a-z][a-z0-9_]*$.(£Êÿµşÿÿÿÿ
+xpython:S117ß"[Rename this local variable "Get_Entity" to match the regular expression ^[_a-z][a-z0-9_]*$.(›äõæıÿÿÿÿ
+mpython:S117"URename this parameter "TextoJson" to match the regular expression ^[_a-z][a-z0-9_]*$.(€Óæ
+ppython:S117š"SRename this parameter "Locator" to match the regular expression ^[_a-z][a-z0-9_]*$.(ûŒ—†şÿÿÿÿ
+gpython:S117´"ORename this parameter "URL" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ûš‰Æ
+spython:S117Á"[Rename this local variable "Get_Entity" to match the regular expression ^[_a-z][a-z0-9_]*$.(¥¶†ù
+spython:S117Ş"[Rename this local variable "Get_Entity" to match the regular expression ^[_a-z][a-z0-9_]*$.(¥¶†ù
+vpython:S117İ"YRename this parameter "MyTextElement" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÂùÅùÿÿÿÿ
+kpython:S117‹"TRename this parameter "timeLoad" to match the regular expression ^[_a-z][a-z0-9_]*$.(Şç:
+qpython:S117"ZRename this local variable "totalWait" to match the regular expression ^[_a-z][a-z0-9_]*$.(°«²8
+spython:S117Ÿ"[Rename this local variable "DriverTest" to match the regular expression ^[_a-z][a-z0-9_]*$.(»è¢Õ
+tpython:S117"\Rename this local variable "GeneralPath" to match the regular expression ^[_a-z][a-z0-9_]*$.(òšŒâ
+vpython:S117 "YRename this local variable "TestCase" to match the regular expression ^[_a-z][a-z0-9_]*$.(Çµ×Æøÿÿÿÿ
+ppython:S117¡"XRename this local variable "horaAct" to match the regular expression ^[_a-z][a-z0-9_]*$.(Üã–
+lpython:S117­"TRename this parameter "TestCase" to match the regular expression ^[_a-z][a-z0-9_]*$.(»£ÈÊ
+tpython:S117´"WRename this parameter "Descripcion" to match the regular expression ^[_a-z][a-z0-9_]*$.(¨ÙÉÔûÿÿÿÿ

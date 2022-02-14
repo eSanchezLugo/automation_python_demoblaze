@@ -1,0 +1,25 @@
+{
+  "sign in": {
+    "GetFieldBy": "Id",
+    "ValueToFind": "signin2"
+  },
+
+  "nombre usuario": {
+    "GetFieldBy": "Css",
+    "ValueToFind": "#sign-username"
+  },
+
+  "password": {
+    "GetFieldBy": "Css",
+    "ValueToFind": "#sign-password"
+  },
+
+  "sign up": {
+    "GetFieldBy": "Css",
+    "ValueToFind": "#signInModal .btn-primary"
+  }
+
+
+
+}
+

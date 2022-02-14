@@ -1,0 +1,71 @@
+{
+  "menu log in": {
+    "GetFieldBy": "Id",
+    "ValueToFind": "login2"
+  },
+
+  "nombre del usuario": {
+    "GetFieldBy": "Css",
+    "ValueToFind": "#loginusername"
+  },
+
+
+  "password del usuario": {
+      "GetFieldBy": "Css",
+      "ValueToFind": "#loginpassword"
+  },
+
+  "log in": {
+      "GetFieldBy": "Xpath",
+      "ValueToFind": "//button[contains(text(),'Log in')]"
+  },
+
+  "usuario": {
+      "GetFieldBy": "Xpath",
+      "ValueToFind": "//*[@id='nameofuser']"
+  },
+
+  "log out": {
+      "GetFieldBy": "Id",
+      "ValueToFind": "logout2"
+  },
+
+  "laptops": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//a[contains(text(),'Laptops')]"
+  },
+
+  "sony vaio i5": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//a[contains(text(),'Sony vaio i5')]"
+  },
+
+  "dell i7": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//a[contains(text(),'Dell i7 8gb')]"
+  },
+
+  "agregar al carrito": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//a[contains(text(),'Add to cart')]"
+  },
+
+  "cart": {
+    "GetFieldBy": "Id",
+    "ValueToFind": "cartur"
+  },
+
+  "texto dell i7": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//td[contains(text(),'Dell i7 8gb')]"
+  },
+
+  "eliminar": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//a[contains(text(),'Delete')]"
+  }
+
+}
+
+
+
