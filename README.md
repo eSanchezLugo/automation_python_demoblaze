@@ -27,8 +27,6 @@ Nota: Para poder ejecutar el test de cucumber se requiere tener una licencia de 
 * Para ejecutar los casos de prueba ingresamos a la carpeta de features y se encontratrara el script  CPA_10_sign_up.feature -> damos clic para que se visualice la información de los test y damos clic derecho run CPA_10_sign_up.feature.
 
 
-![Demo petstore](http://g.recordit.co/1i07Ju5DGs.gif)
-
 En este link se ve la ejecución de los tres scripts : http://g.recordit.co/iGzBso62ak.gif
 
 
